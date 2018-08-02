@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class areahcn {
+public class S_hcn {
     public static void main(String[] args) {
         System.out.println("Nhap vao chieu rong: ");
         Scanner sc=new Scanner(System.in);

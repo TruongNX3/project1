@@ -8,11 +8,10 @@ public class LietKeSoNguyenTo {
             for (int j = 2; j <= Math.sqrt(i); j++) {
                 if (i % j == 0) {
                     SNT = false;
-                    break;
                 }
             }
             if (SNT == true)
-                System.out.println(i);
+                System.out.print(i + " ");
         }
     }
 }
